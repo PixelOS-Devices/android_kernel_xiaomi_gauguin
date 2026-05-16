@@ -1,5 +1,23 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "82b64c2f_d77faf29",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2026-05-16T11:27:44Z",
+      "side": 1,
+      "message": "Mismerged, the change has been removed. and force pushed with e497bf0a546c02117d64efb9090374eca625f541.",
+      "revId": "791b86d0fa3e60f2661eb917f563e61324f7fb45",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ],
   "submitRequirementResults": [
     {
       "submitRequirement": {
